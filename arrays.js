@@ -12,3 +12,8 @@ function accessElementInArray(){
   ["food","more"]
   console.log(accessElementInArray[0]);
 }
+
+function removeElementFromBeginningOgArray(){
+  var cats = ["Garfield", "Milo", "Otis"]
+  cats.slice(-0)
+}
